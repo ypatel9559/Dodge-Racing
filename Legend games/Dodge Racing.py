@@ -1,6 +1,4 @@
 #Yash Patel
-#Mandeep Singh
-#Harjas Sidana
 #Game Name: Dodge Racing
 #Game Company:Legend Games
 
